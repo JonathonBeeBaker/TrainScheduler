@@ -1,24 +1,48 @@
 .jumbotron {
-    color: #fff;
-    color: #fff;
+    color: rgb(109, 129, 49);
     background-color: rgb(191, 209, 137);
     
     padding: 10px;
-    box-shadow:2px 5px 10px rgba(17, 82, 17, 0.75);
+    box-shadow:2px 3px 8px rgba(17, 82, 17, 0.75);
 }
 
 div.panel-body {
-    background-image: url('../images/express.jpg');
-    color: #fff;
-    background-color: rgb(197, 214, 148);
+   color: #fff;
+    background-color: rgb(191, 209, 137);
 }
 
 .btn-primary {
-    background-color: #800000;
-    border-color: #fff;
+    background-color: rgba(151, 172, 90, 0.75);
+    border-color: rgba(145, 165, 85);
     font-weight: bold;
 }
 
 body {
     background-color: rgb(197, 214, 148);
 }
+
+label {
+    color: rgb(17, 82, 17);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+
+}
+
+h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+
+}
+
+table {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+.panel-title {
+    
+    color: rgb(17, 82, 17);
+    font-family: 'Rubik Mono One', sans-serif; 
+    font-size: 25px;
+}
+
+
